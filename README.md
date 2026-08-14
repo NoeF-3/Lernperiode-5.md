@@ -8,6 +8,7 @@ Ich weiss noch nicht, was ich genau diese Lernperiode machen will. Ich möchte e
 
 ### Noten
 M162: 5.0
+
 M319: 4.0
 M431: 6.0
 M106: 5.5
