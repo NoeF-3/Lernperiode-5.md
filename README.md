@@ -8,12 +8,12 @@ Ich weiss noch nicht, was ich genau diese Lernperiode machen will. Ich möchte e
 
 ### Noten
 > M162: 5.0
-> M319: 4.0
-> M431: 6.0
-> M106: 5.5
-> M117: 5.5
-> M164: 5.0
-> M122: 4.5
+M319: 4.0
+M431: 6.0
+M106: 5.5
+M117: 5.5
+M164: 5.0
+ M122: 4.5
 Ich bin zufrieden mit meinem aktuellen Noten. Ich es so gut wie immer bei einer Fünf oder höher halten, mein Ziel ist es natürlich, meine Noten immer noch so hoch zu halten.
 
 ### Veränderungen
