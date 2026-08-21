@@ -54,7 +54,6 @@ Im Modul haben wir bereit Chatverschlüsselung angeschaut, demnach musste ich mi
 - [ ] Accounts speichern mit jeweiligen Passwörtern
 - [ ] Registrieren und anmelden möglich
 
-### Tagesreflexion
 
 
 ## Lernperiode Reflexion
