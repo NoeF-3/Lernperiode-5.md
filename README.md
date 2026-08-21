@@ -30,7 +30,7 @@ Neue Technologien habe ich keine im Kopf, ich muss zuerst Recherchieren, was ich
 
 ## Tagesplanungen
 
-### Planung 14.08.2024
+### Planung 14.08.2026
 
 - [ ] Informatikbereiche Recherchieren
 - [ ] Projektidee finden
@@ -39,7 +39,7 @@ Neue Technologien habe ich keine im Kopf, ich muss zuerst Recherchieren, was ich
 ### Tagesreflexion
 Ich konnte mich noch nicht auf ein spezifisches Projekt festlegen, aber ich weiss, dass ich etwas wie Verschlüsselung, bzw. Passwortmanager machen möchte. Ich konnte heute gut arbeiten und habe einige Dinge über Verschlüsselungsmethoden und -prozesse lernen
 
-### Planung 21.08.2024
+### Planung 21.08.2026
 
 - [ ] Verschlüsselung recherchieren
 - [ ] Passwortmanager recherchieren
