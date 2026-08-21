@@ -24,8 +24,9 @@ Die letzten Lernperioden hatte ich meistens mehrere Projekte. Ich blieb nicht wi
 Neue Technologien habe ich keine im Kopf, ich muss zuerst Recherchieren, was ich überhaupt tun könnte. Wie gesagt möchte ich einfach eine komplett neue Technologie kennenlernen.
 
 ### Generelle Ziele
--An einem Projekt bleiben
--Lernfreudig sein
+- An einem Projekt bleiben
+  
+- Lernfreudig sein
 
 ## Tagesplanungen
 
