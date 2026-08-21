@@ -48,7 +48,7 @@ Ich konnte mich noch nicht auf ein spezifisches Projekt festlegen, aber ich weis
 ### Tagesreflexion
 Im Modul haben wir bereit Chatverschlüsselung angeschaut, demnach musste ich mich nicht informieren. Dazu hatten wir Passwortmanager auch im Modul. Ich möchte als Projekt erstmal ein Login Menü mit Anmelden und Accounts erstellen. Danach werde ich wahrscheinlich Passwörter unter Accounts speichern können.
 
-### Planung 21.08.2026
+### Planung 28.08.2026
 
 - [ ] Login-Menü erstellen
 - [ ] Accounts speichern mit jeweiligen Passwörtern
